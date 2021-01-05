@@ -1,0 +1,33 @@
+blockquote {
+    color: green;
+}
+li a[title="link"] {
+    color: #f00;
+}
+div ul li a[href="http://www.youtube.com/"] {
+    color: #ff8d00;
+}
+.paragraf1 {
+    font-size: 26px;
+}
+a[title] {
+    border: 1px solid #067b09;
+}
+.text-box h3:first-child {
+    color: pink;
+}
+#greycol {
+    color: grey;
+}
+div p:first-child {
+    color: red;
+}
+h3[title=text] {
+    color: blue;
+}
+div p.green {
+    color:green;
+}
+div p.yellow {
+    color: yellow;
+}
